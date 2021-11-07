@@ -1,1 +1,1 @@
-dont edit or steal any files from this github package. this is licenced by ZCON©.
+dont edit or steal any files from this github package. this is licenced by JAZZACON©.
